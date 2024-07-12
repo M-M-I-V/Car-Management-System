@@ -19,7 +19,7 @@ Feel free to explore the code and use it as a reference for learning or enhancin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/M-M-I-V/car-management-system.git
+   git clone https://github.com/M-M-I-V/Car-Management-System.git
    cd car-management-system
    ```
 2. Ensure you have Java installed on your machine. You can download it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
