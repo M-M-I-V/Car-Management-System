@@ -28,11 +28,12 @@ Feel free to explore the code and use it as a reference for learning or enhancin
 
 1. Compile the Java files:
    ```
-   javac FILE_NAME.java
+   javac Car.java
+   javac Main.java
    ```
 2. Run the program:
    ```
-   java FILE_NAME
+   java Main
    ```
 
 ## Contributing
